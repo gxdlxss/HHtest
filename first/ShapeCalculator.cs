@@ -4,4 +4,4 @@ public static class ShapeCalculator
     {
         return shape.CalculateArea();
     }
-}
+} 
